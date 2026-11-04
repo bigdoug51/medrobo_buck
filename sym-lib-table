@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TPS563203") (type "KiCad") (uri "C:/Users/ryanx/Downloads/ul_XTPS563203DRLR/KiCADv6/2026-10-28_20-57-07.kicad_sym") (options "") (descr "buck ic"))
+	(lib (name "wurth electronics inductor") (type "KiCad") (uri "${KIPRJMOD}/wurthinductor.kicad_sym") (options "") (descr ""))
+)
