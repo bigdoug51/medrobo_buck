@@ -2423,7 +2423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-563"
+		(property "Footprint" "footprints:SOT-5X3-6_DRL_TEX"
 			(at 138.43 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2674,7 +2674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "wurthInductor.fp:IND_4532-WE-PD2_WRE"
+		(property "Footprint" "footprints:IND_4532-WE-PD2_WRE"
 			(at 181.61 86.36 0)
 			(hide yes)
 			(show_name no)
